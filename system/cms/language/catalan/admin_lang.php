@@ -1,5 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 
+
 $lang['cp_admin_title'] 				= 'Panell de Control';
 $lang['global:dashboard'] 			= 'Escriptori';
 $lang['cp_admin_quick_links']			= 'Accessos directes';

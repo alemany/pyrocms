@@ -1,5 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 
+
 // Error 404
 $lang['error_404_title'] = 'Pàgina no trobada';
 $lang['error_404_message'] = 'No podem trobar la pàgina que busques, siusplau <a href="%s">aquí</a> per anar a la Home.';
